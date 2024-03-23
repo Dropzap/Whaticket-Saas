@@ -6,6 +6,7 @@ Suporte Se você tiver dúvidas ou precisar de ajuda com a configuração, entre
 
 WhatsApp Suporte: +55 +55 27 98900-1165
 Seja um revendedor desse sistema chame no WhatsApp: +55 27 98900-1165
+Link demo: https://chatbot.chatbotinteractive.shop/signup
 
 # Install S.I. Whaticket SaaS
 
