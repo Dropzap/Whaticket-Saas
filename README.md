@@ -32,6 +32,6 @@ sudo apt install -y git && git clone https://github.com/Dropzap/install_siwhatic
 | --- | Mínimo | Recomendado |
 | --- | --- | --- |
 | Node JS | 14.x | 16.x |
-| Ubuntu | 18.x | 20.x |
+| Ubuntu | 18.x | 22.x |
 | Memória RAM | 2Gb | 4Gb |  
 
