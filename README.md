@@ -6,7 +6,7 @@ Ubuntu Server 22.04
 
 WhatsApp Suporte: +55 27 98900-1165
 Seja um revendedor desse sistema chame no WhatsApp: +55 27 98900-1165
-Link demo: https://chatbot.chatbotinteractive.shop/signup
+
 
 # Acesso o sistema pela primeira vez:
 
