@@ -1,3 +1,12 @@
+# Whaticket.Saas-
+
+Ubuntu Server 22.04 
+
+Suporte Se você tiver dúvidas ou precisar de ajuda com a configuração, entre em contato via Whatsapp:
+
+WhatsApp Suporte: +55 +55 27 98900-1165
+Seja um revendedor desse sistema chame no WhatsApp: +55 27 98900-1165
+
 # Install S.I. Whaticket SaaS
 
 ```bash
